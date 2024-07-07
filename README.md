@@ -20,3 +20,6 @@ This Python script converts a user-inputted word into Morse code.
 ## Example:
     Please enter the word you would like to convert into Morse code: Hello
     Output: .... . .-.. .-.. ---
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
