@@ -1,5 +1,8 @@
 # Morse Code Converter
 
+![MorseCodeChartGIF](https://github.com/Amina-Sagheer/MorseCodeConverter/assets/172102325/566bbf61-45c3-4cad-9ebd-1178b2f24d0b)
+
+
 This Python script converts a user-inputted word into Morse code.
 
 ## Usage:
@@ -12,8 +15,7 @@ This Python script converts a user-inputted word into Morse code.
 - Common punctuation marks (,.?/-())
 
 ## Notes:
-- Spaces between words are not converted and are ignored.
-- Characters not supported by Morse code are skipped with a message.
+- Spaces between words are taken as spaces.
 
 ## Example:
     Please enter the word you would like to convert into Morse code: Hello
